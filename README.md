@@ -15,5 +15,7 @@ Asenna tarvittavat kirjastot
 ```
 npm install
 ```
+Sivuston pohjatiedostot löytyy osoitteesta:
+http://oma.palvelin.fi/~tunnus/projekti-1/
 
 
