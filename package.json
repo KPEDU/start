@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/KPEDU/start.git"
+    "url": "git+https://github.com/KPEDU/starter.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/KPEDU/start/issues"
+    "url": "https://github.com/KPEDU/starter/issues"
   },
-  "homepage": "https://github.com/KPEDU/start#readme",
+  "homepage": "https://github.com/KPEDU/starter#readme",
   "dependencies": {
     "bootstrap": "^4.0.0-alpha.6",
     "foundation-sites": "latest",
