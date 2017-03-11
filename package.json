@@ -4,7 +4,8 @@
   "description": "BS4/Foundation 6 starter kit",
   "main": "index.html",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "./node_modules/lite-server/bin/lite-server"
   },
   "repository": {
     "type": "git",
