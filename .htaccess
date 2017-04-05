@@ -1,0 +1,12 @@
+Options +FollowSymlinks
+
+RewriteEngine On
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule ^(.*)$ index.php?url=$1 [L,QSA]
+
+AddType 'text/html; charset=UTF-8' html
+AddType 'text/html; charset=UTF-8' php
+AddType 'text/javascript; charset=UTF-8' js
+AddType 'text/css; charset=UTF-8' css
+AddType 'text/xml; charset=UTF-8' xml
