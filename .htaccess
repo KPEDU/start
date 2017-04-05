@@ -10,3 +10,6 @@ AddType 'text/html; charset=UTF-8' php
 AddType 'text/javascript; charset=UTF-8' js
 AddType 'text/css; charset=UTF-8' css
 AddType 'text/xml; charset=UTF-8' xml
+
+#  Get variables from the clean url defined in .htaccess
+#  $URL = explode("/",$_GET['url']);
